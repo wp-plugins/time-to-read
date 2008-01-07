@@ -2,7 +2,7 @@
 Contributors: FekketCantenel
 Tags: metadata, wordcount, time
 Requires at least: 2.0.2
-Tested up to: 2.1
+Tested up to: 2.3.2
 Stable tag: 4.3
 
 Displays the wordcount and estimated reading time of the plugin.
